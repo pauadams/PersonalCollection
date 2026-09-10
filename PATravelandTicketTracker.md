@@ -5,21 +5,21 @@
 - * * | ** ** - 
 -->
 
-- *Lima* - *Cuzco* - *Oyotaytambo* | **Peru** - Summer 2025
--  *Hermosillo* | **Mexico** - Winter 2025
-- *San Juan* | **Puerto Rico** - Winter 2024
-- *Alcala De Henares* - *Toledo* - *Barcelona* - *Madrid* - *Segovia* | **Spain** - Summer
-- *Seattle, WA* | **USA** - Spring 2025
-- *Paris* | **France** - Summer 
-- *Amsterdam* - *R* | **Netherlands** - Summer
-- *Dusseldorf* | **Germany** - Summer
-- *Gent* | **Belgium** - Summer
-- *Isla Mujeres* | **Mexico** - Fall 
-- *Cancun* | **Mexico** - Winter 
-- *La Paz* | **Baja California** - Winter
+- *Lima* - *Cuzco* - *Oyotaytambo* | **Peru** | Summer 2025
+-  *Hermosillo* | **Mexico** | Winter 2025
+- *San Juan* | **Puerto Rico** | Winter 2024
+- *Alcala De Henares* - *Toledo* - *Barcelona* - *Madrid* - *Segovia* | **Spain** | Summer
+- *Seattle, WA* | **USA** | Spring 2025
+- *Paris* | **France** | Summer 
+- *Amsterdam* - *R* | **Netherlands** | Summer
+- *Dusseldorf* | **Germany** | Summer
+- *Gent* | **Belgium** | Summer
+- *Isla Mujeres* | **Mexico** | Fall 
+- *Cancun* | **Mexico** | Winter 
+- *La Paz* | **Baja California** | Winter
 - *Treasure Island, FL* | **USA**
-- *Grand Rapids, MI* | **USA** - Summer 2026
-- *New York, NY* | **USA** - Spring 
+- *Grand Rapids, MI* | **USA** | Summer 2026
+- *New York, NY* | **USA** | Spring 
 
 ## Events ##
 <!-- 
@@ -33,7 +33,6 @@
 - *Versailles* | **France**
 - *Eifel Tower* | **Paris, France**
 - *Louve* | **Paris, France**
-- ** | ** **
 - *Charli XCX* | **Bloomington, IN**
 
 
