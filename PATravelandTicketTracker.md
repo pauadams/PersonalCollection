@@ -26,7 +26,7 @@
 - * * | ** **
 -->
 
-- *Mother Mother* - Concert | **Chicago, IL**
+- [*Mother Mother* - Concert | **Chicago, IL**](MotherMother_.md)
 - *Miski* - Concert | **Chicago, IL**
 - *Swimming with Manatees* | **Treasure Island, FL**
 - *Swimming with Dolphins* | **Cancun, MX**
