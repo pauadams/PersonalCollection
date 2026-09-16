@@ -6,7 +6,7 @@
 -->
 
 - *Lima* - *Cuzco* - *Oyotaytambo* | **Peru** | Summer 2025
--  *Hermosillo* | **Mexico** | Winter 2025
+-  [*Hermosillo* | **Mexico** | Winter 2025](HermosilloMexico_Winter2025.md)
 - *San Juan* | **Puerto Rico** | Winter 2024
 - *Alcala De Henares* - *Toledo* - *Barcelona* - *Madrid* - *Segovia* | **Spain** | Summer
 - *Seattle, WA* | **USA** | Spring 2025
