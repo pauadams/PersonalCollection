@@ -14,11 +14,5 @@ asdfkljasldkfjalsjdfklasfdlkaalksjdfljasfdlkjasdflkjaslfdkjasdlfjalskdflaksjdflk
 &nbsp;
 
 
-<img align="center" img src= "New York 2018/IMG_2781.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2782.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2783.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2784.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2785.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2786.jpg" width="200" height="200" alt="image" />
-<img align="center" img src= "New York 2018/IMG_2787.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2781.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2782.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2783.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2784.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2785.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2786.jpg" width="200" height="200" alt="image" /><img src= "New York 2018/IMG_2787.jpg" width="200" height="200" alt="image" />
 
