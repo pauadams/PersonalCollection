@@ -33,7 +33,7 @@
 
 *Grand Rapids, MI* | **USA** | Summer 2026
 
-*New York, NY* | **USA** | Spring 
+[*New York, NY* **USA** - Spring 2018](NewYorkNY_Spring2018.md)
 
 ## Events ##
 <!-- 

@@ -1,8 +1,8 @@
-# *Hermosillo, Mexico* | Winter 2025 
+# *New York, NY* | Spring 2018 
 
 ### <p align='center'> [| Home |](PATravelandTicketTracker.md)[ Back |]()[ Next |]()
 
-<img align="left" img src= "Mexico - 2025/IMG_3652.jpeg" width="250" height="325" alt="image" />
+<img align="left" img src= "New York 2018/IMG_2463.JPG" width="450" height="325" alt="image" />
 
 &nbsp;
 
@@ -14,7 +14,11 @@ asdfkljasldkfjalsjdfklasfdlkaalksjdfljasfdlkjasdflkjaslfdkjasdlfjalskdflaksjdflk
 &nbsp;
 
 
-<img align="center" img src= "Mexico - 2025\IMG_3588.jpeg" width="150" height="200" alt="image" />
-<img src= "Mexico - 2025\IMG_9737.jpeg" width="275" height="200" alt="image" /> 
-<img src= "Mexico - 2025\IMG_3655.jpeg" width="150" height="200" alt="image" /> 
-    
+<img align="center" img src= "New York 2018/IMG_2781.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2782.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2783.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2784.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2785.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2786.jpg" width="200" height="200" alt="image" />
+<img align="center" img src= "New York 2018/IMG_2787.jpg" width="200" height="200" alt="image" />
+

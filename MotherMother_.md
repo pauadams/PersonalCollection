@@ -15,7 +15,5 @@ asdfkljasldkfjalsjdfklasfdlkaalksjdfljasfdlkjasdflkjaslfdkjasdlfjalskdflaksjdflk
 
 
 ## <p align='center'>**Related**
-### [*IEEE Ring Ceremony*]()
-<img src= "Graduation - 2025\IMG_9718.jpeg" width="175" height="200" alt="image" /> 
-<img src= "Graduation - 2025\IMG_9720.jpeg" width="150" height="200" alt="image" />
-<img src= "Graduation - 2025\IMG_.jpeg" width="150" height="200" alt="image" />  
+#### [*Studio Ghibli CandleLight Concert*]()
+#### [*Mitski Concert*]()
